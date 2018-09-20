@@ -24,6 +24,7 @@ int main(){
     for(int i = 1; i <= (size * 8 / 2) ; i++){
         
         cout << mask(size, i) << "\n";
+        
     }
 }
 
